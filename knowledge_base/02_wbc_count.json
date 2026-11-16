@@ -1,0 +1,12 @@
+{
+  "parameter": "wbc_count",
+  "title": "White Blood Cell Count",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/white-blood-count-wbc/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Counts the white blood cells, which help the body fight infection and other disease. Too few or too many may be a sign of a health condition.",
+  "low": "Possible reasons for a low count include bone marrow damage from infection, disease or treatments such as chemotherapy, cancers affecting the bone marrow, autoimmune disorders such as lupus, HIV, diseases of the liver or spleen, and certain medicines.",
+  "high": "Possible reasons for a high count include infection, inflammatory diseases such as rheumatoid arthritis, allergies, leukemia or Hodgkin disease, tissue damage from a burn or surgery, and also smoking, stress, a medicine reaction or pregnancy.",
+  "notes": "The count cannot confirm a diagnosis by itself and is usually done with other tests, such as a blood differential that shows each type of white cell."
+}

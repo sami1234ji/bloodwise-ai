@@ -1,0 +1,12 @@
+{
+  "parameter": "vitamin_b12",
+  "title": "Vitamin B Test (B12 and folate)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/vitamin-b-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures one or more B vitamins in blood or urine. B vitamins support normal metabolism, healthy blood cells and nerve function. B12 helps keep nerves and blood cells healthy; folate (B9) helps the body make new cells. The two are often tested together, especially for certain anemias.",
+  "low": "A deficiency can cause nerve problems, muscle problems, difficulty with thinking and memory loss. Low B12 may cause tiredness, an irregular heartbeat, unintended weight loss and tingling or numbness in the hands and feet. Possible causes include celiac disease, Crohn's disease, alcohol use disorder, malabsorption, diets without animal products, digestive surgery, certain medicines and some gene changes.",
+  "high": "Large amounts of B vitamins can cause health problems, and a high level can also follow an underlying condition such as liver disease.",
+  "notes": "Inflammation and some medicines affect results, laboratories use different ranges, and experts are not certain of normal levels for some B vitamins. Normal results alongside symptoms may call for other tests."
+}

@@ -1,0 +1,12 @@
+{
+  "parameter": "triglycerides",
+  "title": "Triglycerides Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/triglycerides-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures triglycerides, a fat in the blood, to understand the risk of heart disease, stroke and other artery conditions. It is usually part of a lipid profile.",
+  "low": "MedlinePlus describes low triglyceride levels as very uncommon.",
+  "high": "MedlinePlus gives adult bands of under 150 mg/dL healthy, 150 to 199 borderline high, 200 to 499 high, and 500 or more very high. High levels may raise the risk of heart disease, stroke, heart attack and metabolic syndrome, and very high levels also raise the risk of pancreatitis. Causes listed include a diet high in fat, sugar and refined carbohydrate, inactivity, kidney, liver or thyroid disease, poorly controlled diabetes, overweight or obesity, alcohol use disorder, inherited conditions and some medicines.",
+  "notes": "High levels usually cause no symptoms. Fasting for 9 to 12 hours may be needed, and how often to test depends on age, sex, family history and risk factors."
+}

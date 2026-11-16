@@ -1,0 +1,12 @@
+{
+  "parameter": "_general",
+  "title": "How to Understand Your Lab Results",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "A reference range is the span of numbers marking the low and high ends of results considered normal. It is based on results from large groups of healthy people, and a test may have separate ranges for groups such as children and adults. Laboratories often use different methods, so their ranges differ, and units vary by test.",
+  "low": "A result outside the range that applies to you may or may not indicate a health problem. Healthy people sometimes fall outside the range.",
+  "high": "A result within the range does not guarantee good health either, since some people with health problems have results that appear normal. Abnormal results do not always mean disease.",
+  "notes": "Check the range printed on your own report rather than one from elsewhere, and do not compare results across laboratories. If you are tracking changes over time, using the same laboratory helps. Discuss your results with your provider even if they appear normal."
+}

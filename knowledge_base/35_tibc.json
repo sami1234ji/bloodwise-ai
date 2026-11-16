@@ -1,0 +1,12 @@
+{
+  "parameter": "tibc",
+  "title": "Iron Tests (TIBC)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/iron-tests/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "TIBC, total iron-binding capacity, measures how well iron binds to transferrin and other proteins in the blood. It is reported alongside serum iron as part of an iron panel.",
+  "low": "MedlinePlus does not describe low TIBC results on this page. It lists iron deficiency anemia, another anemia or thalassemia among the meanings of a low iron result.",
+  "high": "MedlinePlus does not describe high TIBC results on this page. It lists hemochromatosis, lead poisoning or liver disease among the meanings of a high iron result.",
+  "notes": "TIBC is interpreted together with serum iron and ferritin rather than alone. Iron levels vary during the day and can be affected by medicines."
+}

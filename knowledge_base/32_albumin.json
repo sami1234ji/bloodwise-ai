@@ -1,0 +1,12 @@
+{
+  "parameter": "albumin",
+  "title": "Albumin Blood Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/albumin-blood-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Checks how much albumin, a protein made by the liver, is in the blood. Albumin helps keep fluid inside blood vessels and carries substances such as hormones and vitamins, so the test reflects general health, nutrition and how the liver and kidneys are working.",
+  "low": "A lower-than-usual albumin may point to liver disease including severe cirrhosis or hepatitis, kidney disease, malnutrition with too little dietary protein, infection, digestive diseases affecting protein absorption such as Crohn's disease, burns over a large area, or thyroid disease.",
+  "high": "A higher-than-usual albumin may be a sign of dehydration, which can follow severe diarrhea or other conditions.",
+  "notes": "The test cannot diagnose a condition on its own. Steroids, insulin and hormones can raise levels; not eating for a day or two, some medicines and pregnancy can lower them."
+}

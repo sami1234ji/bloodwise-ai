@@ -1,0 +1,12 @@
+{
+  "parameter": "alp",
+  "title": "Alkaline Phosphatase",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/alkaline-phosphatase/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures alkaline phosphatase, an enzyme in the blood. It is often used to screen for or help diagnose liver or bone diseases.",
+  "low": "A low ALP is less common. It may point to zinc or protein deficiency, malnutrition, pernicious anemia, thyroid disease, Wilson disease, or hypophosphatasia, a rare genetic disease affecting bones and teeth.",
+  "high": "From the liver, a high level may follow bile duct blockages, cirrhosis, hepatitis or mononucleosis. If liver tests are normal, a bone disorder such as Paget's disease of bone may be the source. Moderately high levels are also listed with Hodgkin lymphoma, heart failure and certain infections.",
+  "notes": "The test alone cannot show which source is causing a high level, so other tests are usually needed. Pregnancy, growth in children and teenagers, birth control pills, some medicines and a fatty meal before testing can all affect results."
+}

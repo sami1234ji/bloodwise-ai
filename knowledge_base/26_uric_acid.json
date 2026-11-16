@@ -1,0 +1,12 @@
+{
+  "parameter": "uric_acid",
+  "title": "Uric Acid Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/uric-acid-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Checks how much uric acid is in a blood or urine sample. Uric acid is a waste product from breaking down purines, and when it builds up in the blood it can form crystals in joints, causing gout.",
+  "low": "Low blood levels are uncommon and usually do not cause health problems.",
+  "high": "The body may make too much uric acid, or the kidneys may not remove enough. Eating many high-purine foods such as red meat, certain seafood, alcohol or high-fructose corn syrup can raise levels. Possible causes include gout, kidney disease or stones, certain cancers and their treatments, alcohol use disorder and preeclampsia.",
+  "notes": "Medicines including aspirin, and niacin, can affect results. A high level does not always mean a condition that needs treatment."
+}

@@ -1,0 +1,12 @@
+{
+  "parameter": "mch",
+  "title": "MCH and MCHC (Red Blood Cell Indices)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/red-blood-cell-rbc-indices/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "MCH is the average amount of hemoglobin in a single red blood cell. MCHC is how concentrated the hemoglobin is within the cells.",
+  "low": "A low MCH is associated with iron deficiency anemia. A low MCHC is associated with iron deficiency anemia or thalassemia.",
+  "high": "A high MCH is associated with vitamin B deficiency anemia. A high MCHC is associated with hemolytic anemia or hereditary spherocytosis.",
+  "notes": "The indices are read together with the other red cell measurements and the rest of the blood count, not on their own."
+}

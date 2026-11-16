@@ -1,0 +1,12 @@
+{
+  "parameter": "hdl",
+  "title": "HDL Cholesterol",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/cholesterol-levels/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "HDL, often called good cholesterol, helps remove LDL from the blood. It is reported as part of a cholesterol panel.",
+  "low": "MedlinePlus describes low HDL as under 40 mg/dL in men and under 50 mg/dL in women.",
+  "high": "A higher HDL may help lower the risk of heart attack or stroke.",
+  "notes": "Fasting for 9 to 12 hours may be needed before the test. Talk to a provider before making major changes to diet or exercise."
+}

@@ -1,0 +1,12 @@
+{
+  "parameter": "hba1c",
+  "title": "Hemoglobin A1C Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Shows average blood glucose over the past two to three months by measuring the percentage of red blood cells with glucose-coated hemoglobin. It can help screen for or diagnose type 2 diabetes and prediabetes, and monitor diabetes control.",
+  "low": "MedlinePlus gives no information about low results on this page; it gives a normal range of below 5.7%.",
+  "high": "A high A1C is a sign of high blood glucose from diabetes. MedlinePlus gives 5.7% to 6.4% as prediabetes and 6.5% or higher as diabetes, and notes providers often use more than one test to diagnose.",
+  "notes": "Anemia or other blood disorders can make the test inaccurate for diagnosing diabetes, and kidney failure and liver disease can also affect it. It is not used to diagnose gestational or type 1 diabetes. Some medicines, such as opioids and some HIV medicines, may affect results."
+}

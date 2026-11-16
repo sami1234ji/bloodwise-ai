@@ -1,0 +1,12 @@
+{
+  "parameter": "egfr",
+  "title": "eGFR and GFR Tests",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/estimated-glomerular-filtration-rate-egfr-and-gfr-tests/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "eGFR estimates how well the kidneys filter waste, reported as how much blood they filter per minute. It is usually calculated from the creatinine level together with age, weight, height and sex. Cystatin C may also be used.",
+  "low": "MedlinePlus gives 60 to 90 as possibly early-stage kidney disease, 15 to 60 as possibly kidney disease, and below 15 as possibly kidney failure. A low result may lead to other tests such as urine protein, a microalbumin creatinine ratio, a BUN test or imaging.",
+  "high": "MedlinePlus says an eGFR of 90 to 100 probably means no kidney disease, and notes an abnormal result is possible without kidney damage.",
+  "notes": "Results vary with age, body size, diet, muscle mass, medicines and other conditions. Fasting or avoiding meat may be requested before the test."
+}

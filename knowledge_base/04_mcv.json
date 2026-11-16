@@ -1,0 +1,12 @@
+{
+  "parameter": "mcv",
+  "title": "MCV (Mean Corpuscular Volume)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/mcv-mean-corpuscular-volume/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures the average size of the red blood cells. An unusual size may point to a blood disorder such as anemia, a vitamin deficiency or another condition.",
+  "low": "Smaller-than-usual cells are associated with iron deficiency anemia, the most common form of anemia, and with thalassemia, a group of inherited blood disorders.",
+  "high": "Larger-than-usual cells are associated with pernicious anemia (which may follow a lack of vitamin B12 or a condition affecting how it is used, such as certain autoimmune diseases, celiac disease or Crohn's disease), anemia from a lack of folic acid, and liver disease.",
+  "notes": "Anemia can also occur with a normal MCV, for example after sudden blood loss or with kidney failure. The test alone cannot diagnose a disease, and age, diet, activity, medicines and periods can affect it."
+}

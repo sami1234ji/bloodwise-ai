@@ -1,0 +1,12 @@
+{
+  "parameter": "ferritin",
+  "title": "Ferritin Blood Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/ferritin-blood-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures ferritin, a protein that stores iron, showing whether the body is storing the right amount. It may also help investigate hemochromatosis, iron deficiency anemia, liver disease, restless legs syndrome and adult Still disease.",
+  "low": "A low ferritin may point to iron deficiency anemia or another condition related to low iron. Iron deficiency anemia happens when the body cannot make enough red blood cells because it lacks iron.",
+  "high": "A high ferritin can follow having too much iron in the body. Other possible causes include inflammation from infection or surgery, an autoimmune disorder, liver disease, cancer, obesity, alcohol use disorder and hyperthyroidism.",
+  "notes": "Unusual results do not always mean a condition that needs treatment, as certain medicines can raise or lower ferritin. A 12-hour fast may be requested."
+}

@@ -1,0 +1,12 @@
+{
+  "parameter": "transferrin_saturation",
+  "title": "Iron Tests (Transferrin Saturation)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/iron-tests/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Transferrin saturation is reported as part of an iron panel, alongside serum iron and TIBC. MedlinePlus describes transferrin as the protein that moves iron through the body.",
+  "low": "MedlinePlus does not separately describe low transferrin saturation on this page. For iron, a low result may point to iron deficiency anemia, another anemia or thalassemia.",
+  "high": "MedlinePlus does not separately describe high transferrin saturation on this page. For iron, a high result may point to hemochromatosis, lead poisoning or liver disease.",
+  "notes": "Iron panel results are interpreted together. Levels vary during the day, and medicines and the menstrual cycle can affect them."
+}

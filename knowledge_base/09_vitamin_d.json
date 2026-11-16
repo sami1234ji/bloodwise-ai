@@ -1,0 +1,12 @@
+{
+  "parameter": "vitamin_d",
+  "title": "Vitamin D Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/vitamin-d-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures vitamin D in the blood, usually as 25-hydroxyvitamin D, to show whether the body has enough. Vitamin D helps the body absorb calcium for healthy bones and teeth and supports muscles, nerves and the immune system.",
+  "low": "Results may be reported as deficient or insufficient. Possible reasons include not getting enough from diet or sunlight, trouble absorbing it from food, trouble converting it into a usable form (which may point to kidney or liver disease), or a medicine that affects the level.",
+  "high": "A high or toxic result usually follows taking too much from supplements. Excess vitamin D can seriously damage organs and blood vessels, and may cause nausea, vomiting, poor appetite, constipation, muscle weakness and weight loss.",
+  "notes": "Total vitamin D, the sum of D2 and D3, is the key number. Routine testing is not recommended for everyone."
+}

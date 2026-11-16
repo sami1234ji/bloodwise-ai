@@ -1,0 +1,12 @@
+{
+  "parameter": "bilirubin_direct",
+  "title": "Bilirubin Blood Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/bilirubin-blood-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Direct (conjugated) bilirubin is reported as part of a bilirubin blood test. Bilirubin comes from the normal breakdown of old red blood cells, and the test helps check liver health and find the cause of jaundice.",
+  "low": "A low bilirubin is usually not a concern and may be caused by antibiotics, birth control pills, sleeping pills or seizure medicines.",
+  "high": "A high bilirubin may be caused by hemolytic anemia, liver disease or a blockage in the bile ducts.",
+  "notes": "Normal ranges vary by laboratory and sex, and bilirubin is only one measure of liver health, so other tests may be ordered."
+}

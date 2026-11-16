@@ -1,0 +1,12 @@
+{
+  "parameter": "folate",
+  "title": "Folate (Vitamin B9)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/vitamin-b-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Folate, also called vitamin B9, helps the body make healthy new cells. It is often measured together with vitamin B12, particularly when investigating certain types of anemia.",
+  "low": "A folate deficiency can contribute to anemia. Possible causes of a B vitamin deficiency include celiac disease, Crohn's disease, alcohol use disorder, malabsorption, digestive surgery, certain medicines and some gene changes such as in the MTHFR gene.",
+  "high": "MedlinePlus notes that large amounts of B vitamins can cause health problems.",
+  "notes": "Deficiencies are less common in the United States because many foods are fortified. Laboratories use different reference ranges, and inflammation and some medicines can affect results."
+}

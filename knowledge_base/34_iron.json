@@ -1,0 +1,12 @@
+{
+  "parameter": "iron",
+  "title": "Iron Tests",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/iron-tests/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Serum iron measures the amount of iron in the blood. TIBC measures how well iron binds to transferrin and other blood proteins. A transferrin test measures transferrin itself, the protein that moves iron around the body.",
+  "low": "A low result may point to iron deficiency anemia, another type of anemia, or thalassemia. Risk factors listed for low iron include heavy periods, pregnancy or breastfeeding, infancy especially if premature or low birth weight, frequent blood donation, cancer, certain digestive diseases, heart failure and a mostly plant-based diet.",
+  "high": "A high result may point to hemochromatosis (iron overload), lead poisoning or liver disease. Hemochromatosis can be inherited or follow another health condition.",
+  "notes": "Iron levels vary during the day and may be higher in the morning. Birth control pills and estrogen treatments can affect them, and levels may dip during the menstrual cycle. A 12-hour fast may be requested."
+}

@@ -1,0 +1,12 @@
+{
+  "parameter": "hematocrit",
+  "title": "Hematocrit",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/complete-blood-count-cbc/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Hematocrit is reported as part of a complete blood count, a group of blood tests that measure the number and size of the different cells in the blood.",
+  "low": "MedlinePlus does not list causes for a low hematocrit on the complete blood count page. A complete blood count is used to help investigate conditions such as anemia.",
+  "high": "MedlinePlus does not list causes for a high hematocrit on the complete blood count page.",
+  "notes": "A complete blood count is used as part of a checkup or to monitor overall health, and results are interpreted together with the other cell measurements and with symptoms and medical history."
+}

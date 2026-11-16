@@ -1,0 +1,12 @@
+{
+  "parameter": "urea",
+  "title": "Urea",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/bun-blood-urea-nitrogen/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Blood urea and blood urea nitrogen (BUN) are related but are not the same measurement. MedlinePlus describes the BUN test, which measures urea nitrogen, a waste product from protein breakdown, to help check kidney function.",
+  "low": "For BUN, lower-than-usual levels may be linked to a lack of dietary protein, malnutrition or liver disease.",
+  "high": "For BUN, higher-than-usual levels may be caused by dehydration, burns, certain medicines, a high-protein diet or a recent heart attack, and in general may mean the kidneys are not working well.",
+  "notes": "This application has no verified reference interval for urea as distinct from BUN, so it reports a urea value without judging it. Check the interval printed on your own report."
+}

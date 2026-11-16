@@ -1,0 +1,12 @@
+{
+  "parameter": "rdw",
+  "title": "RDW (Red Cell Distribution Width)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/red-blood-cell-rbc-indices/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "RDW describes how much the red blood cells vary in size and volume. It is normal when the cells are close to the same size.",
+  "low": "MedlinePlus does not list causes for a low RDW on this page.",
+  "high": "MedlinePlus does not list specific causes for a high RDW on this page; it says only that an unusual result indicates differences in size among the red blood cells.",
+  "notes": "An RDW result alone is not enough for a diagnosis. It is read with the other red cell indices and blood tests, and unusual indices may suggest anemia."
+}

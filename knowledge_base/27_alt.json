@@ -1,0 +1,12 @@
+{
+  "parameter": "alt",
+  "title": "ALT Blood Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/alt-blood-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures alanine aminotransferase, an enzyme found mainly in the liver. It helps check liver health and can help detect liver damage or disease, sometimes before symptoms appear.",
+  "low": "An unusually low ALT is uncommon and may point to a vitamin B6 deficiency or chronic kidney disease, so a provider may order more tests.",
+  "high": "A high ALT may indicate liver damage from hepatitis or other infection, cirrhosis or liver cancer, other liver diseases, reduced blood flow to the liver, certain medicines such as cholesterol drugs or pain relievers, or poisons.",
+  "notes": "A high result does not always mean a condition that needs treatment. Age, sex, weight, medicines, supplements, intense exercise and menstrual cycle timing can all affect it, and ALT is usually read alongside other liver tests."
+}

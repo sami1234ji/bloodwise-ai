@@ -1,0 +1,12 @@
+{
+  "parameter": "bilirubin_total",
+  "title": "Bilirubin Blood Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/bilirubin-blood-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures bilirubin, a yellowish substance from the normal breakdown of old red blood cells. It helps check liver health, find the cause of jaundice and see whether a treatment is working.",
+  "low": "A low bilirubin is usually not a concern and may be caused by antibiotics, birth control pills, sleeping pills or seizure medicines.",
+  "high": "A high bilirubin may be caused by hemolytic anemia, liver disease or a blockage in the bile ducts.",
+  "notes": "Normal ranges vary by laboratory and sex. Some medicines, certain foods and strenuous exercise can raise it, and bilirubin is only one measure of liver health."
+}

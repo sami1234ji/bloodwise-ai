@@ -1,0 +1,12 @@
+{
+  "parameter": "ft3",
+  "title": "Free T3",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/triiodothyronine-t3-tests/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Free T3 measures only the free, active form of triiodothyronine that enters the tissues. MedlinePlus notes that total T3 is considered the more accurate measurement of T3.",
+  "low": "A low result may point to hypothyroidism, read together with TSH and free T4 to tell a thyroid cause from a pituitary one.",
+  "high": "A high result may point to hyperthyroidism, again read together with TSH and free T4.",
+  "notes": "T3 results are interpreted alongside TSH and T4 rather than alone. Some medicines and supplements can affect them."
+}

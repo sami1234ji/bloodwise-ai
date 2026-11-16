@@ -1,0 +1,12 @@
+{
+  "parameter": "ft4",
+  "title": "Free T4",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/thyroxine-t4-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Free T4 is the active form of thyroxine that reaches the body's tissues. MedlinePlus describes it as more accurate than total T4 and more often used.",
+  "low": "A low result may be a sign of hypothyroidism, Hashimoto's disease, certain stages of thyroiditis, a pituitary problem, iodine imbalance, or treatment for hyperthyroidism or thyroid cancer.",
+  "high": "A high result may be a sign of hyperthyroidism, Graves' disease, thyroiditis, toxic goiter or nodule, too much iodine, a non-cancerous pituitary tumour, or too much thyroid hormone medicine.",
+  "notes": "Free T4 is interpreted together with TSH. Severe illness and some medicines affect the result."
+}

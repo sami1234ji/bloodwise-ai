@@ -1,0 +1,12 @@
+{
+  "parameter": "ast",
+  "title": "AST Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/ast-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures AST, an enzyme found mainly in the liver but also in the heart, muscles and other tissues. It is commonly used to help diagnose liver damage or disease.",
+  "low": "Low AST levels in the blood are usually considered normal.",
+  "high": "High AST may be due to liver disease or other liver problems. Other causes listed include hepatitis, cirrhosis, mononucleosis, heart procedures or problems, pancreatitis, hemochromatosis, deep burns, seizures, drugs toxic to the liver especially alcohol, and surgery.",
+  "notes": "A result outside the usual range does not always mean a condition that needs treatment. Pregnancy, exercise, certain medicines, age and sex can affect it."
+}

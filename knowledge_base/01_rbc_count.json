@@ -1,0 +1,12 @@
+{
+  "parameter": "rbc_count",
+  "title": "Red Blood Cell (RBC) Count",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/red-blood-cell-rbc-count/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Counts the red blood cells, which carry oxygen from the lungs to the body's cells. It is usually part of a complete blood count, and a count outside the usual range is often the first sign of an illness.",
+  "low": "Possible reasons for a low count include anemia, leukemia, malnutrition, multiple myeloma, kidney failure, blood loss, alcohol use disorder and pregnancy. Symptoms can include breathlessness, tiredness, headache, dizziness and pale skin.",
+  "high": "Possible reasons for a high count include dehydration, heart disease, polycythemia vera, lung scarring often from smoking, lung disease, kidney cancer and sleep apnea. Anabolic steroid misuse and living at high altitude can also raise it.",
+  "notes": "An unusual result may lead to further tests such as a reticulocyte count, iron tests or a vitamin B test. A provider weighs it against symptoms, medical history and other blood tests."
+}

@@ -1,0 +1,12 @@
+{
+  "parameter": "hemoglobin",
+  "title": "Hemoglobin Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/hemoglobin-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Hemoglobin is an iron-rich protein in red blood cells that carries oxygen from the lungs to the rest of the body. The test is often used to check for anemia, and an unusual level may point to a blood disorder.",
+  "low": "Possible reasons for a low result include several types of anemia, thalassemia, iron deficiency, liver disease, cancer and other diseases, blood loss from injury or heavy periods, and a lack of nutrients such as iron or vitamin B12.",
+  "high": "Possible reasons for a high result include lung disease, heart disease, polycythemia vera (in which the bone marrow makes too many red blood cells), sleep apnea, and living at a high altitude.",
+  "notes": "An unusual result does not always mean something needs treatment. Diet, activity, some medicines, dehydration, smoking and some genetic conditions can affect it, and ranges differ by laboratory, age and sex. The test cannot show the cause on its own."
+}

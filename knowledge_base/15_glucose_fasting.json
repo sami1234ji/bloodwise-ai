@@ -1,0 +1,12 @@
+{
+  "parameter": "glucose_fasting",
+  "title": "Blood Glucose Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/blood-glucose-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures glucose, the body's main energy source, in the blood. Levels outside the usual range may be a sign of prediabetes, diabetes or other conditions affecting blood glucose.",
+  "low": "In someone with diabetes, a low result may follow diabetes medicines including insulin, eating too little, or being more active than usual. Without diabetes, possible causes include liver or kidney disease, underactive adrenal glands, certain pituitary disorders, an underactive thyroid, malnutrition, alcohol use disorder and some medicines.",
+  "high": "Prediabetes and diabetes are the most common causes of a high result. Others include an overactive thyroid, a pancreas problem such as pancreatitis, stress from surgery, serious illness or trauma, adrenal gland problems, and certain medicines.",
+  "notes": "Fasting for at least eight hours is required for a fasting glucose test. Some medicines raise glucose, such as steroids and beta-blockers, and others lower it. Interpretation depends on the test type, other results and medical history."
+}

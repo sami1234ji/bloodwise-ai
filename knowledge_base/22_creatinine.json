@@ -1,0 +1,12 @@
+{
+  "parameter": "creatinine",
+  "title": "Creatinine Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/creatinine-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Creatinine is a waste product made when muscles are used and muscle tissue breaks down. The test checks blood or urine levels to assess kidney health and help diagnose or monitor kidney disease.",
+  "low": "A low blood creatinine may signal malnutrition or a condition that makes muscles shrink, such as a long illness, a nerve disorder or muscle loss with age. Serious liver disease can also cause low levels.",
+  "high": "A high blood creatinine may signal kidney disease or injury, such as infection, poor blood flow to the kidneys, a urinary blockage or kidney failure, and can also be linked to heart failure or diabetes. Causes outside the kidney include dehydration, muscle disorders and injuries, muscular dystrophy, intense exercise, a diet high in meat and certain pregnancy problems.",
+  "notes": "Normal levels vary with muscle mass, diet, age and activity, and a normal result does not always mean healthy kidneys. Meat can temporarily raise creatinine."
+}

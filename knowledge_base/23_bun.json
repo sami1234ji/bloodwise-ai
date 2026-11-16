@@ -1,0 +1,12 @@
+{
+  "parameter": "bun",
+  "title": "BUN (Blood Urea Nitrogen)",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/bun-blood-urea-nitrogen/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures urea nitrogen, a waste product from protein breakdown, in the blood. It helps check kidney function and can help find kidney problems early, and is often part of a metabolic panel.",
+  "low": "Lower-than-usual levels may be linked to a lack of protein in the diet, malnutrition or liver disease.",
+  "high": "Higher-than-usual levels may be caused by dehydration, burns, certain medicines, a high-protein diet or a recent heart attack. In general a high level may mean the kidneys are not working well.",
+  "notes": "Normal levels vary by sex and usually rise with age. BUN is only one measure of kidney function, so other tests such as creatinine or GFR may be needed."
+}

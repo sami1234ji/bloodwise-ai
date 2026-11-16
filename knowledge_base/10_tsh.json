@@ -1,0 +1,12 @@
+{
+  "parameter": "tsh",
+  "title": "TSH Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/tsh-thyroid-stimulating-hormone-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "TSH is made by the pituitary gland and tells the thyroid how much thyroid hormone to make. The test shows whether the thyroid is making the right amount. Thyroid hormones affect nearly every organ, including breathing, heart rate, weight and mood.",
+  "low": "A lower-than-usual TSH may mean too much thyroid hormone, called hyperthyroidism, most commonly from Graves' disease. A low level can also occur briefly during serious illness unrelated to the thyroid, and often in the first three months of pregnancy.",
+  "high": "A higher-than-usual TSH may mean too little thyroid hormone, called hypothyroidism, most commonly from Hashimoto's disease.",
+  "notes": "TSH can be high or low even when the thyroid is healthy; serious illness, age over 80 and pregnancy all affect it. An unusual result usually leads to other thyroid tests such as T4, T3 or thyroid antibodies. The test cannot show the cause."
+}

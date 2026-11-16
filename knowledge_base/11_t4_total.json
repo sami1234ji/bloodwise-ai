@@ -1,0 +1,12 @@
+{
+  "parameter": "t4_total",
+  "title": "Thyroxine (T4) Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/thyroxine-t4-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Measures thyroxine, the main hormone the thyroid makes. Free T4 is the active form that reaches the tissues; total T4 measures free and bound together. Free T4 is considered more accurate and is used more often. A T4 result alone cannot diagnose a thyroid problem, so it is usually paired with TSH.",
+  "low": "A low T4 may be a sign of hypothyroidism, Hashimoto's disease, certain stages of thyroiditis, a pituitary problem, too much or too little iodine, congenital hypothyroidism, or treatment for hyperthyroidism or thyroid cancer.",
+  "high": "A high T4 may be a sign of hyperthyroidism, Graves' disease, certain stages of thyroiditis, toxic goiter or nodule, too much iodine, a non-cancerous pituitary tumour, or taking too much thyroid hormone medicine.",
+  "notes": "Severe illness and medicines such as birth control pills and steroids can affect T4. Results are read alongside other thyroid tests."
+}

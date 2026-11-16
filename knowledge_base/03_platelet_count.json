@@ -1,0 +1,12 @@
+{
+  "parameter": "platelet_count",
+  "title": "Platelet Tests",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/platelet-tests/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "Platelets are essential for blood clotting. Platelet tests check how many there are and how well they form clots, and help screen for conditions causing too much bleeding or clotting.",
+  "low": "Possible reasons for a low count include blood cancers such as leukemia or lymphoma, viral infections such as mononucleosis, hepatitis or measles, autoimmune disease, bone marrow infection or damage, cirrhosis, vitamin B12 deficiency, and gestational thrombocytopenia in pregnancy.",
+  "high": "Possible reasons for a high count include certain cancers such as lung or breast cancer, anemia, inflammatory bowel disease, rheumatoid arthritis, viral or bacterial infection, and severe blood loss.",
+  "notes": "Unusual platelet function results may point to inherited disorders such as von Willebrand disease, or acquired ones such as kidney failure. Providers weigh results against symptoms, history and other blood tests."
+}

@@ -1,0 +1,12 @@
+{
+  "parameter": "glucose_random",
+  "title": "Blood Glucose Test",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/blood-glucose-test/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "A random (non-fasting) glucose measures blood sugar at any time of day. Glucose is the body's main energy source, and levels outside the usual range may be a sign of prediabetes, diabetes or other conditions.",
+  "low": "Possible causes of a low result include diabetes medicines, eating too little, unusual activity, liver or kidney disease, underactive adrenal glands or thyroid, malnutrition, alcohol use disorder and some medicines.",
+  "high": "Prediabetes and diabetes are the most common causes of a high result; others include an overactive thyroid, pancreas problems, stress from surgery or serious illness, adrenal gland problems and certain medicines.",
+  "notes": "This application has no verified reference interval for a random glucose, so it reports the value without judging it. Interpretation depends on the test type, other results and medical history."
+}

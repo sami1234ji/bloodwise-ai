@@ -1,0 +1,12 @@
+{
+  "parameter": "ldl",
+  "title": "LDL Cholesterol",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/cholesterol-levels/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "LDL, often called bad cholesterol, is described by MedlinePlus as the main source of artery blockages.",
+  "low": "MedlinePlus does not describe low LDL results on this page.",
+  "high": "High LDL can build plaque in the arteries, which can narrow or block them and may lead to heart attack, stroke or peripheral artery disease. Diets high in saturated fat, excess weight, smoking, inactivity, stress and too much alcohol can raise cholesterol.",
+  "notes": "LDL may be calculated from other values rather than measured directly. Fasting for 9 to 12 hours may be needed."
+}

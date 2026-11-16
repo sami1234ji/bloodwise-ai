@@ -1,0 +1,12 @@
+{
+  "parameter": "t3_total",
+  "title": "Triiodothyronine (T3) Tests",
+  "source_name": "MedlinePlus, National Library of Medicine",
+  "source_url": "https://medlineplus.gov/lab-tests/triiodothyronine-t3-tests/",
+  "date_accessed": "2026-11-16",
+  "attribution": "Source: MedlinePlus, National Library of Medicine.",
+  "measures": "A total T3 test measures bound and free T3 together; a free T3 test measures only the active form. MedlinePlus says medical experts consider total T3 the more accurate measurement. T3 tests help investigate hyperthyroidism and pituitary disorders and monitor thyroid treatment.",
+  "low": "A low T3 may point to hypothyroidism. With a high TSH and low free T4 a thyroid gland problem may be the cause; with a low TSH and low free T4 a pituitary condition may be.",
+  "high": "A high T3 may point to hyperthyroidism. With a low TSH and high free T4 a thyroid gland problem may be the cause; with a normal or high TSH and high free T4 a pituitary condition may be.",
+  "notes": "Results are compared with TSH and T4. A normal T3 alone does not rule out thyroid disease, but a normal TSH and free T4 usually suggest no thyroid condition."
+}
