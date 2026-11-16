@@ -74,6 +74,20 @@ def _is_value_cell(line: str) -> bool:
 
 _LEADING_PAREN = re.compile(r"^\s*\(([^)]*)\)")
 
+# Lines that contain a known test name but report a different quantity. Reading
+# "Non-HDL Cholesterol 153" as total cholesterol would be a wrong result, so
+# these lines are skipped rather than matched.
+_OTHER_TEST = re.compile(r"\bnon\s*-\s*\w|\bnon\s*hdl\b|\bvldl\b|\bratio\b",
+                         re.IGNORECASE)
+# Words that may stand in front of a bare "cholesterol" and still mean total
+# cholesterol. Any other word in front ("VLDL", or a scan's misread "LOL") names
+# a different fraction, so the line is not taken as total cholesterol.
+_TOTAL_PREFIX = re.compile(r"^[\s\W]*(?:(?:total|serum|s|t)[\s\W]*)*$", re.IGNORECASE)
+
+# A line holding only a bracketed note with letters, such as the method printed
+# under a test name: "(CHO-POD)", "(Calculated)".
+_METHOD_LINE = re.compile(r"^\s*\((?=[^)]*[A-Za-z])[^)]*\)?\s*$")
+
 
 def _strip_name_annotation(tail: str) -> str:
     """Drop a bracketed note that follows the test name.
@@ -171,12 +185,17 @@ class ParameterExtractor:
     # -- line parsing -----------------------------------------------------
     def match_parameter(self, line: str):
         """Longest alias that appears in the line, with where it ends."""
+        if _OTHER_TEST.search(line):
+            return None, 0, ""
         best = None
         for pat, pid in self._patterns:
             m = pat.search(line)
             if m and (best is None or (m.end() - m.start()) > best[2]):
                 best = (pid, m.end(), m.end() - m.start(), m.group(0))
         if best is None:
+            return None, 0, ""
+        if best[3].lower() == "cholesterol" and not _TOTAL_PREFIX.match(
+                line[:best[1] - best[2]]):
             return None, 0, ""
         return best[0], best[1], best[3]
 
@@ -264,6 +283,16 @@ class ParameterExtractor:
                 confidence -= 0.25
 
         row = self.table.row(pid)
+        # A printed limit that is wildly unlike the stored one is a misread, most
+        # often a decimal point lost in a scan ("<200.00" read as "<20000").
+        # Judging the value against it would give a wrong status, so it is dropped.
+        if row is not None and any(
+                lim is not None and is_implausible(lim, row.low, row.high)
+                for lim in (ref_low, ref_high)):
+            ref_low = ref_high = None
+            issues.append("the interval printed on the report could not be read "
+                          "reliably; the stored interval is used instead")
+            confidence -= 0.10
         if row is not None and is_implausible(value, row.low, row.high):
             issues.append("far outside any plausible range for this test; "
                           "check for a misread digit or decimal point")
@@ -334,13 +363,19 @@ class ParameterExtractor:
         buf = [lines[start]]
         best = None
         best_used = 1
-        for step in range(1, lookahead + 1):
+        step = 0
+        while step < lookahead:
+            step += 1
             j = start + step
             if j >= len(lines):
                 break
             nxt = lines[j]
             if _is_table_header(nxt):
                 break
+            if _METHOD_LINE.match(nxt) and len(buf) == 1 and lookahead < 8:
+                # The method note under the name is not part of the record.
+                lookahead += 1
+                continue
             # Stop at the next test name, unless it is only a unit or a number.
             other, _e, _r = self.match_parameter(nxt)
             if other is not None and other != pid and not _is_value_cell(nxt):
