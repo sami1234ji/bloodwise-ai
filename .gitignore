@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Never commit a real blood report
+uploads/
+patient_reports/
+*_real.pdf
+
+# Large raw data: rebuild with scripts/prepare_nhanes.py
+nhanes_raw/
+data/nhanes_training.csv
+
+# Trained model: rebuild with scripts/train_model.py
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db

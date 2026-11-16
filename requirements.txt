@@ -1,0 +1,33 @@
+# Core application
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+
+# Reading reports
+pypdf>=4.0
+pytesseract>=0.3.10          # needs the Tesseract program as well: see the README
+pdf2image>=1.17              # needs Poppler as well: see the README
+Pillow>=10.0
+opencv-python-headless>=4.8  # image preprocessing before OCR
+
+# Analysis
+scikit-learn>=1.3
+joblib>=1.3
+
+# Output
+plotly>=5.18
+reportlab>=4.0
+matplotlib>=3.7              # evaluation charts produced by the scripts
+
+# Tests
+pytest>=7.4
+
+# Optional. The retrieval layer uses scikit-learn TF-IDF unless both of these
+# are installed, in which case it uses embeddings with a FAISS index. The
+# application is complete without them.
+# sentence-transformers>=2.6
+# faiss-cpu>=1.8
+
+# Optional. Only needed to rebuild the training table from the raw NHANES
+# release rather than the CSV export.
+# pyreadstat>=1.2
